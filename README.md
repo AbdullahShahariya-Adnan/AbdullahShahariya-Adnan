@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Everyone👋
 
 # 💫 About Me:
 I'm currently working on learning about myself.<br>As a CS student, I'm trying to spend my time in Coding,<br>Moreover,  i have a passion for Cyber Security, so i love to spend time to learn something daily like , CTF, Security tools<br> 
